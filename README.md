@@ -1,2 +1,2 @@
-# gitcod
+# Aws Cloud template 
 gitrepo
